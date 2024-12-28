@@ -1,2 +1,2 @@
 # Python-Projects
-This repository contain my notable python projects.
+This repository contains my notable python projects.
